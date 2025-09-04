@@ -3,7 +3,7 @@
 
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fswiftuiux%2Fbluetooth-law-energy-swift%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/swiftuiux/bluetooth-law-energy-swift) [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fswiftuiux%2Fbluetooth-law-energy-swift%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/swiftuiux/bluetooth-law-energy-swift)
 
-## [Swiftui example](https://github.com/swiftuiux/bluetooth-law-energy-swiftui-example)
+## [Swiftui example](https://github.com/swiftuiux/ble-bluetooth-law-energy-swiftui-example-ios)
 
 
 ## [Documentation(API)](https://swiftpackageindex.com/swiftuiux/bluetooth-law-energy-swift/main/documentation/bluetooth_law_energy_swift)
